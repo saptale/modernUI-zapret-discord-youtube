@@ -1,0 +1,9 @@
+/utils/test results
+<<<<<<< HEAD
+launcher_config.json
+=======
+/utils/game_filter.enabled
+/lists/ipset-exclude-user.txt
+/lists/list-general-user.txt
+/lists/list-exclude-user.txt
+>>>>>>> upstream/main
